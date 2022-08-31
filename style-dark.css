@@ -3,7 +3,6 @@ body {
 }
 a {
 	font-weight: bold;
-	color: #7b94dc;
 	text-decoration: none;
 }
 
@@ -25,12 +24,18 @@ a {
 	color: #d96969;
 }
 
-.divSearch {
-	font-weight: bold;
-	color: #d96969;
-	text-decoration: none;
-}
-.divNormal {
+.divNormal * {
 	text-align: center;
 	color: #eeeeee;
 }
+.divSearch a,h3 {
+	color: #d96969;
+}
+.divProject a {
+	color: #5ca776;
+}
+.divBookmark a {
+	color: #e3c965;
+}
+
+
