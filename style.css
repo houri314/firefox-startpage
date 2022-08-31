@@ -1,0 +1,36 @@
+body {
+	background-color: #222222;
+}
+a {
+	font-weight: bold;
+	color: #7b94dc;
+	text-decoration: none;
+}
+
+.comment {
+	font-size: 12px;
+	color: #eeefff;
+}
+.author {
+	position: relative;
+	right: -250px;
+}
+.link {
+	font-weight: bold;
+	color: #7b94dc;
+	text-decoration: none;
+}
+
+#search {
+	color: #d96969;
+}
+
+.divSearch {
+	font-weight: bold;
+	color: #d96969;
+	text-decoration: none;
+}
+.divNormal {
+	text-align: center;
+	color: #eeeeee;
+}
